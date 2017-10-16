@@ -1,0 +1,7 @@
+E:\code\GRWeb\GRLib\bin\Debug\netcoreapp1.1\GRLib.deps.json
+E:\code\GRWeb\GRLib\bin\Debug\netcoreapp1.1\GRLib.dll
+E:\code\GRWeb\GRLib\bin\Debug\netcoreapp1.1\GRLib.pdb
+E:\code\GRWeb\GRLib\obj\Debug\netcoreapp1.1\GRLib.csprojResolveAssemblyReference.cache
+E:\code\GRWeb\GRLib\obj\Debug\netcoreapp1.1\GRLib.AssemblyInfo.cs
+E:\code\GRWeb\GRLib\obj\Debug\netcoreapp1.1\GRLib.dll
+E:\code\GRWeb\GRLib\obj\Debug\netcoreapp1.1\GRLib.pdb

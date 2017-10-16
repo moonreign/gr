@@ -1,0 +1,11 @@
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRWeb.deps.json
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRWeb.runtimeconfig.json
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRWeb.runtimeconfig.dev.json
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRWeb.dll
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRWeb.pdb
+E:\code\GRWeb\GRWeb\obj\Debug\netcoreapp1.1\GRWeb.AssemblyInfo.cs
+E:\code\GRWeb\GRWeb\obj\Debug\netcoreapp1.1\GRWeb.dll
+E:\code\GRWeb\GRWeb\obj\Debug\netcoreapp1.1\GRWeb.pdb
+E:\code\GRWeb\GRWeb\obj\Debug\netcoreapp1.1\GRWeb.csprojResolveAssemblyReference.cache
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRLib.dll
+E:\code\GRWeb\GRWeb\bin\Debug\netcoreapp1.1\GRLib.pdb

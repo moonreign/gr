@@ -1,0 +1,11 @@
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRConsole.deps.json
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRConsole.runtimeconfig.json
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRConsole.runtimeconfig.dev.json
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRConsole.dll
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRConsole.pdb
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRLib.dll
+E:\code\GRWeb\GRConsole\bin\Debug\netcoreapp1.1\GRLib.pdb
+E:\code\GRWeb\GRConsole\obj\Debug\netcoreapp1.1\GRConsole.csprojResolveAssemblyReference.cache
+E:\code\GRWeb\GRConsole\obj\Debug\netcoreapp1.1\GRConsole.AssemblyInfo.cs
+E:\code\GRWeb\GRConsole\obj\Debug\netcoreapp1.1\GRConsole.dll
+E:\code\GRWeb\GRConsole\obj\Debug\netcoreapp1.1\GRConsole.pdb

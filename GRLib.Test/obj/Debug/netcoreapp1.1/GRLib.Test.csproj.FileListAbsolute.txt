@@ -1,0 +1,14 @@
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.Test.deps.json
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.Test.runtimeconfig.json
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.Test.runtimeconfig.dev.json
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.Test.dll
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.Test.pdb
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.dll
+E:\code\GRWeb\GRLib.Test\bin\Debug\netcoreapp1.1\GRLib.pdb
+E:\code\GRWeb\GRLib.Test\obj\Debug\netcoreapp1.1\GRLib.Test.csprojResolveAssemblyReference.cache
+E:\code\GRWeb\GRLib.Test\obj\Debug\netcoreapp1.1\GRLib.Test.AssemblyInfo.cs
+E:\code\GRWeb\GRLib.Test\obj\Debug\netcoreapp1.1\GRLib.Test.dll
+E:\code\GRWeb\GRLib.Test\obj\Debug\netcoreapp1.1\GRLib.Test.pdb

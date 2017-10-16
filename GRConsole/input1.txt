@@ -1,0 +1,3 @@
+﻿doe,john,male,red,8/23/1982
+smith | john  | male | red| 2/3/1999
+ronson , dana , female  ,  red , 8/21/1990
